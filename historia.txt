@@ -1,7 +1,5 @@
-Hola soy fabian lastra oyarce
+Hola soy fabian
 
-test de vscodeeeeee
+test de vscode
 
-1234
-
-tengo 21 añitos
+se contar muchos numeros
